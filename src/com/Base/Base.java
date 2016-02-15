@@ -10,6 +10,7 @@ import jxl.Workbook;
 import jxl.read.biff.BiffException;
 import jxl.*;
 
+
 import org.apache.poi.hslf.model.Sheet;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
@@ -90,7 +91,7 @@ public class Base
 	
 	public  static void OpenURL()
 	{
-		d.get(Config.Url);
+//		d.get(Config.Url);
 	}
 
 
